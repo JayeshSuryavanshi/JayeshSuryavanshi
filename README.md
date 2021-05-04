@@ -40,28 +40,6 @@ I am also an open-source enthusiast and smartphone fanatic. I learned a lot from
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-JavaScript   13 hrs 54 mins ████████████████░░░░░░░░░   66.54 % 
-Java         4 hrs 18 mins  █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
-Python       2 hrs 26 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
-Node         7 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
-Other        7 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
-```
-<!--END_SECTION:waka-->
-
-
-
-🚧 **My Todoist Stats:**
-<!-- TODO-IST:START -->
-🏆  7,798 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 632 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
-
-
 📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=JayeshSuryavanshi&show_icons=true&theme=gotham" alt="JayeshSuryavanshi" />
