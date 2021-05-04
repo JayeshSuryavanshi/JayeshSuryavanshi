@@ -20,10 +20,6 @@ Hi, I'm [Jayesh Suryavanshi](https://jayeshsuryavanshi.github.io/me/), a passion
 
 I am also an open-source enthusiast and smartphone fanatic. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-- 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@jayesh368](https://twitter.com/Jayesh368);
 - 📝 [Resume](https://drive.google.com/file/d/1iTEXy4ULqINil03Mm4rDM-UQYw7h2UNG/view?usp=sharing)
 
