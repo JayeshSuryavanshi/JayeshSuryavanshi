@@ -21,7 +21,6 @@ Hi, I'm [Jayesh Suryavanshi](https://jayeshsuryavanshi.github.io/me/), a passion
 I am also an open-source enthusiast and smartphone fanatic. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 - 📫 How to reach me: [@jayesh368](https://twitter.com/Jayesh368);
-- 📝 [Resume](https://drive.google.com/file/d/1iTEXy4ULqINil03Mm4rDM-UQYw7h2UNG/view?usp=sharing)
 
 **Languages and Tools:**  
 
@@ -36,7 +35,6 @@ I am also an open-source enthusiast and smartphone fanatic. I learned a lot from
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=JayeshSuryavanshi&show_icons=true&theme=gotham" alt="JayeshSuryavanshi" />
 
