@@ -20,8 +20,6 @@ Hi, I'm [Jayesh Suryavanshi](https://jayeshsuryavanshi.github.io/me/), a passion
 
 I am also an open-source enthusiast and smartphone fanatic. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-- 📫 How to reach me: [@jayesh368](https://twitter.com/Jayesh368);
-
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
