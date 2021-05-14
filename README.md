@@ -6,7 +6,7 @@
   <img align="left" alt="Jayesh Suryavanshi | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/JayeshSuryavanshi/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Jayesh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/playlist/51XVSfWgZxrh29f4dtEPqS">
   <img align="left" alt="Jayesh's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
@@ -16,7 +16,7 @@
 
 <br />
 
-Hi, I'm [Jayesh Suryavanshi](https://jayeshsuryavanshi.github.io/me/), a passionate self-taught Full Stack developer from Nashik, India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Jayesh Suryavanshi](https://jayeshsuryavanshi.github.io), a passionate self-taught Full Stack developer from Nashik, India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also a machine learning and open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
