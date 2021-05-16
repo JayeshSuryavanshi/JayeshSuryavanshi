@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Jayesh</h1>
 <h3 align="center">A passionate developer from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JayeshSuryavanshi" alt="JayeshSuryavanshi" /> </p>
+
 
 <a href="https://discord.gg/XTW52Kt">
   <img align="left" alt="Jayesh's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
