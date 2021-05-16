@@ -14,7 +14,6 @@
 <a href="https://open.spotify.com/playlist/51XVSfWgZxrh29f4dtEPqS">
   <img align="left" alt="Jayesh's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
-
 ![](https://visitor-badge.glitch.me/badge?page_id=JayeshSuryavanshi.JayeshSuryavanshi)
 
 <br />
