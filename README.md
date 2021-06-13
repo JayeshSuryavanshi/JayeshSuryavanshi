@@ -19,8 +19,6 @@ A passionate Full Stack developer from Nashik, India. My passion for software li
 
 I am also a machine learning and open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-<img src="https://github.com/JayeshSuryavanshi/JayeshSuryavanshi/blob/master/cute-dino.gif" />
-
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
