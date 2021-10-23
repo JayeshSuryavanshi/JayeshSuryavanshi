@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Jayesh</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A passionate developer based in Buffalo, NY</h3>
 
 <a href="https://twitter.com/Jayesh368">
   <img align="left" alt="Jayesh Suryavanshi | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
