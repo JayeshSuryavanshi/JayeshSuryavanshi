@@ -15,7 +15,7 @@
 
 <br />
 
-A passionate Full Stack developer from Nashik, India currently based in Buffalo, NY. I am pursuing my Masters (MS) in Computer Science with specialization in Machine Learning and Artificial Intelligence from the University at Buffalo. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+A passionate graduate student and a developer based in Buffalo, NY. I am pursuing my Masters (MS) in Computer Science with specialization in Machine Learning and Artificial Intelligence from the University at Buffalo. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also a machine learning and open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
