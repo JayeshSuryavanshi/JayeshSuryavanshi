@@ -1,4 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Jayesh</h1>
+<p align="center">
+  <img src="/images/name.gif" />
+</p>
 <h3 align="center">A passionate developer based in Buffalo, New York</h3>
 
 <a href="https://twitter.com/Jayesh368">
