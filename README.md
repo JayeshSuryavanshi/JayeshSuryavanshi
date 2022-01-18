@@ -23,7 +23,7 @@ I am also a machine learning and open-source enthusiast. I learned a lot from th
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=JayeshSuryavanshi&show_icons=true&theme=gotham" alt="JayeshSuryavanshi" />
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kudy01&langs_count=8&theme=tokyonight&layout=compact)](https://github.com/JayeshSuryavanshi/JayeshSuryavanshi)
+<p align="center"> <[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kudy01&langs_count=8&theme=tokyonight&layout=compact)](https://github.com/JayeshSuryavanshi/JayeshSuryavanshi)/>
 
 
 
