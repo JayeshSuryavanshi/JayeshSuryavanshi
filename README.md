@@ -24,10 +24,6 @@ I am also a machine learning and open-source enthusiast. I learned a lot from th
   
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayeshSuryavanshi&langs_count=8&theme=tokyonight&layout=compact" />
 
-### Now Playing 🎧
-
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=21774776cyn6sfct724asartq&count=1)
-
 
 
 
