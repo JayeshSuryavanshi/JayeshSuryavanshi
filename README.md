@@ -20,8 +20,6 @@ A passionate graduate student and a developer based in Buffalo, NY. I am pursuin
 
 I am also a machine learning and open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-<p align="center">< img src= "https://spotify-recently-played-readme.vercel.app/api?user=bs49gtyqknutg1bzm78s5ybpf&count=1"/>
-
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=JayeshSuryavanshi&show_icons=true&theme=gotham" alt="JayeshSuryavanshi" />
   
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayeshSuryavanshi&langs_count=8&theme=tokyonight&layout=compact" />
