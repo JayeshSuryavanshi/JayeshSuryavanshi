@@ -26,7 +26,7 @@ I am also a machine learning and open-source enthusiast. I learned a lot from th
 
 ### Now Playing 🎧
 
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=bs49gtyqknutg1bzm78s5ybpf&count=1)
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=21774776cyn6sfct724asartq&count=1)
 
 
 
