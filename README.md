@@ -18,8 +18,6 @@
 
 A passionate graduate student and a developer based in Buffalo, NY. I am pursuing my Masters (MS) in Computer Science with specialization in Machine Learning and Artificial Intelligence from the University at Buffalo. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
-I am also a machine learning and open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
-
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=JayeshSuryavanshi&show_icons=true&theme=gotham" alt="JayeshSuryavanshi" />
   
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayeshSuryavanshi&langs_count=8&theme=tokyonight&layout=compact" />
