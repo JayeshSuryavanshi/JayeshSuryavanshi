@@ -23,8 +23,7 @@ A passionate graduate student and a developer based in Buffalo, NY. I am pursuin
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayeshSuryavanshi&langs_count=8&theme=tokyonight&layout=compact" />
 
 
-
-
+<h4 align="center">Other – <a href='https://jayeshsuryavanshi.github.io/' target="_blank">feschenko.org</a><h4>
 
 
 
