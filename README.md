@@ -26,7 +26,7 @@ I support Red Bull Racing 👿 and HaaS 😎.
  
  <br>
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=AbhishekMaira10" alt="AbhishekMaiara10" /> </p>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=JayeshSuryavanshi" alt="JayeshSuryavanshi" /> </p>
  
  </br>
 
@@ -51,20 +51,17 @@ I support Red Bull Racing 👿 and HaaS 😎.
 ---
 ### 📢 Find me elsewhere
 <p align="left">
-  <a href="https://www.codechef.com/users/abhimaira_10">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px">
-  </a>&nbsp;&nbsp;&nbsp;
   
-  <a href="https://leetcode.com/abhishekmaira1999/">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">
+  <a href="https://leetcode.com/">
+    <img src="https://raw.githubusercontent.com/AbhishekMaira10/JayeshSuryavanshi/master/Resources/svg/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.hackerrank.com/abhishekmaira191">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/JayeshSuryavanshi/JayeshSuryavanshi/master/Resources/svg/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
   
   <a href="https://www.codewars.com/users/abhimaira_10">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codewars.svg" alt="codewars" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/JayeshSuryavanshi/JayeshSuryavanshi/master/Resources/svg/codewars.svg" alt="codewars" style="vertical-align:top; margin:4px">
   </a> &nbsp;&nbsp;&nbsp;
 </p>
 
@@ -73,17 +70,17 @@ I support Red Bull Racing 👿 and HaaS 😎.
 <details>
 <summary>📈 My GitHub Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AbhishekMaira10&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=JayeshSuryavanshi&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
 </details>
 
 </br>
 
-<a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekMaira10&repo=COVID-19-Tracker&theme=dracula" />
+<a href="https://github.com/JayeshSuryavanshi/COVID-19-Tracker" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JayeshSuryavanshi&repo=COVID-19-Tracker&theme=dracula" />
 </a>
-<a href="https://github.com/AbhishekMaira10/deldrone" target="_blank">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekMaira10&repo=deldrone&theme=dracula" />
+<a href="https://github.com/JayeshSuryavanshi/deldrone" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JayeshSuryavanshi&repo=deldrone&theme=dracula" />
 </a>
 <div align="center">
 
