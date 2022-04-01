@@ -24,11 +24,6 @@ I support Red Bull Racing 👿 and HaaS 😎.
  - 📫 How to reach me: [jayeshsuryavanshi808@gmail.com](mailto:jayeshsuryavanshi808@gmail.com);
  - 🔗 My website: [https://jayeshsuryavanshi.github.io](https://jayeshsuryavanshi.github.io)
  
- <br>
-
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=JayeshSuryavanshi" alt="JayeshSuryavanshi" /> </p>
- 
- </br>
 
 **Languages and Tools:**
 <br>
