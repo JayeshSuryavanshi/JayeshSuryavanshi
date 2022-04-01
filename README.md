@@ -10,7 +10,7 @@
 
 <br>
 
-Hi, I'm [Jayesh Suryavanshi](https://jayeshsuryavanshi.github.io), a Software Engineer 👨🏻‍💻 from New York. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products. I'm proud to say that **I can succesfully center an element with css.** Beside's Hacking stuff, I play Chess and watch Formula 1.
+Hi, I'm [Jayesh Suryavanshi](https://jayeshsuryavanshi.github.io), MS Computer Science Student @ University at Buffalo. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products. I'm proud to say that **I can succesfully center an element with css.** Beside's Hacking stuff, I play Chess and watch Formula 1.
 I support Red Bull Racing 👿 and HaaS 😎.
 
 <br>
