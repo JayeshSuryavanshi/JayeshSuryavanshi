@@ -19,7 +19,8 @@ I support Red Bull Racing 👿 and HaaS 😎.
 <!-- https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif -->
 <!-- <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" /> -->
 
-<img align="right" alt="GIF" src="https://giphy.com/gifs/siliconvalleyhbo-3o7qDTWX8bdsursNfa" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
+
 
  - 📫 How to reach me: [jayeshsuryavanshi808@gmail.com](mailto:jayeshsuryavanshi808@gmail.com)
  - 🔗 My website: [https://jayeshsuryavanshi.github.io](https://jayeshsuryavanshi.github.io)
