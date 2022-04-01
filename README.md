@@ -72,7 +72,7 @@ I support Red Bull Racing 👿 and HaaS 😎.
 </br>
 
 <a href="https://github.com/JayeshSuryavanshi/COVID-19-Tracker" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JayeshSuryavanshi&repo=Natural-Language-Processing&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JayeshSuryavanshi&repo=ATM-Simulator&theme=dracula" />
 </a>
 <a href="https://github.com/JayeshSuryavanshi/deldrone" target="_blank">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JayeshSuryavanshi&repo=Walleto&theme=dracula" />
