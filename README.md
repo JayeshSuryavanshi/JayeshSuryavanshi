@@ -48,14 +48,14 @@ I support Red Bull Racing 👿 and HaaS 😎.
 <p align="left">
   
   <a href="https://leetcode.com/">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/JayeshSuryavanshi/master/Resources/svg/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/JayeshSuryavanshi/JayeshSuryavanshi/master/Resources/svg/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
 
-  <a href="https://www.hackerrank.com/abhishekmaira191">
+  <a href="https://www.hackerrank.com/">
     <img src="https://raw.githubusercontent.com/JayeshSuryavanshi/JayeshSuryavanshi/master/Resources/svg/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
   
-  <a href="https://www.codewars.com/users/abhimaira_10">
+  <a href="https://www.codewars.com/users/JayeshSuryavanshi">
     <img src="https://raw.githubusercontent.com/JayeshSuryavanshi/JayeshSuryavanshi/master/Resources/svg/codewars.svg" alt="codewars" style="vertical-align:top; margin:4px">
   </a> &nbsp;&nbsp;&nbsp;
 </p>
