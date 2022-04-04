@@ -52,34 +52,18 @@ I support the Mercedes F1 team.
 
 <hr>
 
-<details>
-<summary>📈 My GitHub Stats</summary>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=JayeshSuryavanshi&show_icons=true&theme=gotham" alt="JayeshSuryavanshi" />
-
-</details>
 
 </br>
 
-<a href="https://github.com/JayeshSuryavanshi/COVID-19-Tracker" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JayeshSuryavanshi&repo=ATM-Simulator&theme=dracula" />
-</a>
-<a href="https://github.com/JayeshSuryavanshi/deldrone" target="_blank">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JayeshSuryavanshi&repo=Walleto&theme=dracula" />
-</a>
-<div align="center">
+
 	
-  <summary><b>🔎 Github Profile Details</b></summary>
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JayeshSuryavanshi&theme=github_dark" alt="JayeshSuryavanshi" align = "center"/></p>
 
-  <summary><b>⚡ Github Stats</b></summary>
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=JayeshSuryavanshi&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="JayeshSuryavanshi" align = "center"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=JayeshSuryavanshi&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="JayeshSuryavanshi" align = "center"/></p>
 
- <summary><b>🔥 Github Streaks</b></summary>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JayeshSuryavanshi&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="JayeshSuryavanshi" /></p>
 
-<summary><b>📊 Github Contribution Graph</b></summary>
 <p align="center"<a href="#"><img alt="JayeshSuryavanshi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=JayeshSuryavanshi&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
 <!-- </details>
 <details>    -->
