@@ -37,7 +37,7 @@ I support the Mercedes F1 team.
 
 
 ---
-### 📢 Find me elsewhere
+<!-- ### 📢 Find me elsewhere
 <p align="left">
   
   <a href="https://leetcode.com/">
@@ -48,7 +48,7 @@ I support the Mercedes F1 team.
     <img src="https://raw.githubusercontent.com/JayeshSuryavanshi/JayeshSuryavanshi/master/Resources/svg/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
   
-</p>
+</p> -->
 
 <hr>
 
