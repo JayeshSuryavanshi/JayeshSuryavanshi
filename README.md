@@ -61,9 +61,6 @@ In my free time, I watch Formula 1 races and I support the Mercedes F1 team (Lew
  -->
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JayeshSuryavanshi&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="JayeshSuryavanshi" /></p>
 
-<p align="center"<a href="#"><img alt="JayeshSuryavanshi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=JayeshSuryavanshi&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
-<!-- </details>
-<details>    -->
 
 ### Have a good day!
 </div>
