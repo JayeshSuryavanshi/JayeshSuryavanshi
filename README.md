@@ -15,8 +15,8 @@ In my free time, I watch **Formula 1** and I support the Mercedes F1 team (Lewis
 
 
 
- - 📫 How to reach me: [jayeshsuryavanshi808@gmail.com](mailto:jayeshsuryavanshi808@gmail.com)
- - 🔗 My website: [https://jayeshsuryavanshi.github.io](https://jayeshsuryavanshi.github.io)
+ - 📨 How to reach me: [jayeshsuryavanshi808@gmail.com](mailto:jayeshsuryavanshi808@gmail.com)
+ - 🏁 My website: [https://jayeshsuryavanshi.github.io](https://jayeshsuryavanshi.github.io)
  
 
 **Languages and Tools:**
