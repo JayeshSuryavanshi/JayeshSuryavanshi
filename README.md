@@ -46,7 +46,7 @@ Hi, I'm [Jayesh Suryavanshi](https://jayeshsuryavanshi.github.io), MS Computer S
 
 </br>
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=JayeshSuryavanshi&hide_border=true&count_private=true&show_icons=true&theme=dark" alt="JayeshSuryavanshi" align = "center"/>
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=JayeshSuryavanshi&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="JayeshSuryavanshi" align = "center"/></p>
  -->
