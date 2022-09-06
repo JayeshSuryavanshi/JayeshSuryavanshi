@@ -1,55 +1,75 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?153184943" width="30"/> Hey, nice to see you!</h1>
+<h1 align="center">Hi 👋, I'm Jayesh (He/him)</h1>
+<h3 align="center">Building the 🏛️ wall one brick 🧱 at a time!</h3>
 
-<p align="left">
-<a href="https://twitter.com/2jayesh3" target="_blank"><img height="30" src="https://raw.githubusercontent.com/JayeshSuryavanshi/JayeshSuryavanshi/master/Resources/png/twitter.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/JayeshSuryavanshi/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/JayeshSuryavanshi/JayeshSuryavanshi/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://open.spotify.com/user/21774776cyn6sfct724asartq" target="_blank"><img height="30" src="https://raw.githubusercontent.com/JayeshSuryavanshi/JayeshSuryavanshi/master/Resources/png/spotify.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+##### NOW
+- ✨ **Opensource** contributor: [Openshift - CI Search](https://github.com/openshift/ci-search)
+- 🔥 Interested in everything Software Development
+- 💬 Excited to keep learning from MOOC's
+
+##### BIO
+
+- 🏢 I'm currently studying at UB
+- ⚙️ I use daily: `.py`, `.go`
+- 🌱 Learning all about **Data Engineering**
+- 🦬 Studying Computer Science at **University at Buffalo**
+- 📄 Checkout my [resume](https://drive.google.com/file/d/1gIhCclwD1xw6c0k13vkYkL3Pm3nzOC0o/view?usp=sharing)
+- 💸 Always excited to discuss/read about **stonks**
+- ⚡️ Fun fact: I'm a huge fan of `Harry Potter`, `LOTR`, `Star Wars`
+
+##### STACK
+<!-- Python -->
+<p align="left"> 
+<a href="https://www.python.org"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="css3" width="40" height="40"/> 
+</a>
+<!-- Go -->
+<a href="https://go.dev/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+<!-- Spark -->
+<a href="https://spark.apache.org/"> 
+<img src="img/spark-original.svg" alt="hadoop" width="40" height="40"/> </a>
+<!-- Kafka -->
+<a href="https://kafka.apache.org/" > 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg" alt="hadoop" width="40" height="40"/> </a>
+<!-- Hadoop -->
+<a href="https://hadoop.apache.org/"> 
+<img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a>
+<!-- PostsgreSQL -->
+<a href="https://www.postgresql.org/"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="hadoop" width="40" height="40"/> </a>
+<!-- Jenkins -->
+<a href="https://www.jenkins.io/"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="hadoop" width="40" height="40"/> </a>
+<!-- Ansible -->
+<a href="https://www.ansible.com/"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg" alt="hadoop" width="40" height="40"/> </a>
+<!-- Docker -->
+<a href="https://www.docker.com/"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="hadoop" width="40" height="40"/> </a>
+<!-- Kubernetes -->
+<a href="https://kubernetes.io/"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="hadoop" width="40" height="40"/> </a>
+<!-- Pandas -->
+<a href="https://pandas.pydata.org/"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="hadoop" width="40" height="40"/> </a>
+<!-- Pytorch -->
+<a href="https://pytorch.org/"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original-wordmark.svg" alt="hadoop" width="40" height="40"/> </a>
+<!-- Git -->
+<a href="https://github.com/sumeetaher"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="hadoop" width="40" height="40"/> </a>
 </p>
 
-<br>
+##### CONNECT WITH ME:
+<p left="center">
+<a href="https://www.linkedin.com/in/sumeetaher/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+</a> 
+<a href="mailto:sumeet4879@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
+</a>
+<a href="https://www.youtube.com/channel/UCvNiMutIYiGMO4XKgS8C_3Q">
+  <img src="https://img.shields.io/youtube/channel/subscribers/UCvNiMutIYiGMO4XKgS8C_3Q?style=social" height=25>
+</a>
+</p>
 
-Hi, I'm [Jayesh Suryavanshi](https://jayeshsuryavanshi.github.io), MS Computer Science Student **@ University at Buffalo**. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products. Worked on eclectic projects to justify my strong logical ability and out-of-the-box thinking. 
-
-<br>
-
-
-
- - 📨 How to reach me: [jayeshsuryavanshi808@gmail.com](mailto:jayeshsuryavanshi808@gmail.com)
- - 🏁 My website: [https://jayeshsuryavanshi.github.io](https://jayeshsuryavanshi.github.io)
- 
-
-**Languages and Tools:**
-<br>
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-<!-- ### 📢 Find me elsewhere
-<p align="left">
-  
-  <a href="https://leetcode.com/">
-    <img src="https://raw.githubusercontent.com/JayeshSuryavanshi/JayeshSuryavanshi/master/Resources/svg/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">
-  </a>&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.hackerrank.com/">
-    <img src="https://raw.githubusercontent.com/JayeshSuryavanshi/JayeshSuryavanshi/master/Resources/svg/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">
-  </a>&nbsp;&nbsp;&nbsp;
-  
-</p> -->
-
-<hr>
-
-
-</br>
-
-<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=JayeshSuryavanshi&hide_border=true&count_private=true&show_icons=true&theme=dark" alt="JayeshSuryavanshi" align = "center"/>
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=JayeshSuryavanshi&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="JayeshSuryavanshi" align = "center"/></p>
- -->
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JayeshSuryavanshi&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="JayeshSuryavanshi" /></p>
-
-
-</div>
