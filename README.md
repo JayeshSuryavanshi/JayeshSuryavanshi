@@ -9,10 +9,10 @@
 ##### BIO
 
 - 🏢 I'm currently studying at UB
-- ⚙️ I use daily: `.py`, `.go`
-- 🌱 Learning all about **Data Engineering**
+- ⚙️ I use daily: `.py`, `.java`
+- 🌱 Learning all about **Software Engineering**
 - 🦬 Studying Computer Science at **University at Buffalo**
-- 📄 Checkout my [resume](https://drive.google.com/file/d/1gIhCclwD1xw6c0k13vkYkL3Pm3nzOC0o/view?usp=sharing)
+- 📄 Checkout my [resume](https://drive.google.com/file/d/1ZTkJ2VoaUaOUmZTZE5U8UsesUk2FaU5G/view)
 - 💸 Always excited to discuss/read about **stonks**
 - ⚡️ Fun fact: I'm a huge fan of `Harry Potter`, `LOTR`, `Star Wars`
 
