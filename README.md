@@ -8,7 +8,7 @@
 
 <br>
 
-Hi, I'm [Jayesh Suryavanshi](https://jayeshsuryavanshi.github.io), currently Software Engineer at Datava. **Fresh** Graduate MS Computer Science Student from **@ University at Buffalo**. I'm a creative problem solver, data enthusiast and a product guy, with a constantly growing love for kick ass products. Worked on eclectic projects to justify my strong logical ability and out-of-the-box thinking. 
+Hi, I'm [Jayesh Suryavanshi](https://jayeshsuryavanshi.github.io), currently Software Engineer at Datava. Graduate MS Computer Science Student from **@ University at Buffalo**. I'm a creative problem solver, data enthusiast and a product guy, with a constantly growing love for kick ass products. Worked on eclectic projects to justify my strong logical ability and out-of-the-box thinking. 
 
 <br>
 
