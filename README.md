@@ -14,7 +14,7 @@ Hi, I'm [Jayesh Suryavanshi](https://www.jayeshsuryavanshi.com), currently Softw
 
 
  - 📨 How to reach me: [jayeshsuryavanshi808@gmail.com](mailto:jayeshsuryavanshi808@gmail.com)
- - 🏁 My website: [https://jayeshsuryavanshi.github.io](https://jayeshsuryavanshi.github.io)
+ - 🏁 My website: [[https://www.jayeshsuryavanshi.com](https://www.jayeshsuryavanshi.com)](https://www.jayeshsuryavanshi.com)
  
 
 **Languages and Tools:**
