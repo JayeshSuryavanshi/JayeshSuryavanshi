@@ -13,7 +13,7 @@ Hi, I'm [Jayesh Suryavanshi](https://www.jayeshsuryavanshi.com), currently Softw
 <br>
 
 
- - 📨 How to reach me: [jayeshsuryavanshi808@gmail.com](mailto:jayeshsuryavanshi808@gmail.com)
+ - 📨 How to reach me: [jayeshscode@gmail.com](mailto:jayeshscode@gmail.com)
  - 🏁 My website: [[https://www.jayeshsuryavanshi.com](https://www.jayeshsuryavanshi.com)](https://www.jayeshsuryavanshi.com)
  
 
