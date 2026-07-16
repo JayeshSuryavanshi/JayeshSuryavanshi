@@ -51,8 +51,9 @@ I build **applied machine learning and NLP** systems at eBay. I like turning mes
 ### 📊 GitHub at a glance
 
 <p align="center">
-  <img height="165" alt="Jayesh's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=JayeshSuryavanshi&show_icons=true&hide_border=true&hide=contribs&title_color=33449e&icon_color=33449e&text_color=444&count_private=true">
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayeshSuryavanshi&layout=compact&hide_border=true&langs_count=8&title_color=33449e&text_color=444">
+  <img alt="Followers" src="https://img.shields.io/github/followers/JayeshSuryavanshi?style=flat-square&logo=github&label=Followers&color=33449e">
+  &nbsp;
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=JayeshSuryavanshi&style=flat-square&color=33449e&label=Profile+views">
 </p>
 
 <br>
