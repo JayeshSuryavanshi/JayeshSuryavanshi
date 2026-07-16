@@ -1,50 +1,60 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?153184943" width="30"/> Hey, nice to see you!</h1>
+<h1 align="center">Hi, I'm Jayesh 👋</h1>
 
-<p align="left">
-<a href="https://twitter.com/2jayesh3" target="_blank"><img height="30" src="https://raw.githubusercontent.com/JayeshSuryavanshi/JayeshSuryavanshi/master/Resources/png/twitter.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/JayeshSuryavanshi/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/JayeshSuryavanshi/JayeshSuryavanshi/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://open.spotify.com/user/21774776cyn6sfct724asartq" target="_blank"><img height="30" src="https://raw.githubusercontent.com/JayeshSuryavanshi/JayeshSuryavanshi/master/Resources/png/spotify.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">
+  <b>Machine Learning Engineer @ eBay</b>&nbsp;·&nbsp;MS Computer Science, University at Buffalo
+</p>
+
+<p align="center">
+  <a href="https://www.jayeshsuryavanshi.com"><img alt="Website" src="https://img.shields.io/badge/Website-jayeshsuryavanshi.com-33449e?style=flat-square&logo=googlechrome&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/JayeshSuryavanshi/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:jayeshscode@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://open.spotify.com/user/21774776cyn6sfct724asartq"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white"></a>
 </p>
 
 <br>
 
-Hi, I'm [Jayesh Suryavanshi](https://www.jayeshsuryavanshi.com), currently Machine Learning Engineer at **eBay**. Graduate MS Computer Science Student from **@ University at Buffalo**. I'm a creative problem solver, data enthusiast and a product guy, with a constantly growing love for kick ass products. Worked on eclectic projects to justify my strong logical ability and out-of-the-box thinking. 
+I build **applied machine learning and NLP** systems at eBay. I like turning messy, real-world data into things people actually use — and, off the clock, crafting small, well-made side projects for the people I care about.
+
+- 🔭 Focus: NLP, applied ML at scale, and the data plumbing that makes both work
+- 🌱 Always learning: retrieval systems, ML infra, and cleaner ways to ship models
+- 💬 Reach me: [jayeshscode@gmail.com](mailto:jayeshscode@gmail.com) · [jayeshsuryavanshi.com](https://www.jayeshsuryavanshi.com)
+
+### 🛠️ What I work with
+
+**Machine Learning**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+**Engineering**  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+
+### 📌 Featured work
+
+- **[Social-Unrest-Prediction-NLP](https://github.com/JayeshSuryavanshi/Social-Unrest-Prediction-NLP)** — transformer pipeline predicting social unrest from ACLED data (extraction → summarization → event prediction)
+- **[Sentiment-Analysis-IMDb-Reviews](https://github.com/JayeshSuryavanshi/Sentiment-Analysis-IMDb-Reviews)** — clean PyTorch RNN / bi-RNN / bi-LSTM sentiment classifiers, compared head to head
+- **[POS-Tagger-for-Hindi-Language](https://github.com/JayeshSuryavanshi/POS-Tagger-for-Hindi-Language)** — low-resource NLP: an n-gram back-off POS tagger for Hindi (~88% accuracy)
+- **[Lyft-Motion-Prediction](https://github.com/JayeshSuryavanshi/Lyft-Motion-Prediction-Submission)** — a two-level CNN → transformer motion-prediction pipeline for the Lyft Kaggle challenge
+- **[Walleto](https://github.com/JayeshSuryavanshi/Walleto)** — full-stack e-wallet (Angular + Spring Boot / MySQL) for a bit of SWE range
+
+### 📊 GitHub at a glance
+
+<p align="center">
+  <img height="165" alt="Jayesh's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=JayeshSuryavanshi&show_icons=true&hide_border=true&hide=contribs&title_color=33449e&icon_color=33449e&text_color=444&count_private=true">
+  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayeshSuryavanshi&layout=compact&hide_border=true&langs_count=8&title_color=33449e&text_color=444">
+</p>
 
 <br>
 
-
- - 📨 How to reach me: [jayeshscode@gmail.com](mailto:jayeshscode@gmail.com)
- - 🏁 My website: [https://www.jayeshsuryavanshi.com](https://www.jayeshsuryavanshi.com)
- 
-
-**Languages and Tools:**
-<br>
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-<!-- ### 📢 Find me elsewhere
-<p align="left">
-  
-  <a href="https://leetcode.com/">
-    <img src="https://raw.githubusercontent.com/JayeshSuryavanshi/JayeshSuryavanshi/master/Resources/svg/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">
-  </a>&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.hackerrank.com/">
-    <img src="https://raw.githubusercontent.com/JayeshSuryavanshi/JayeshSuryavanshi/master/Resources/svg/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">
-  </a>&nbsp;&nbsp;&nbsp;
-  
-</p> -->
-
-<hr>
-
-
-</br>
-
-
-
-</div>
+<p align="center"><i>Off the clock: chasing national parks 🏔️, overengineering my personal finances, and curating far too many Spotify playlists 🎧</i></p>
