@@ -47,6 +47,7 @@ I build **applied machine learning and NLP** systems at eBay. I like turning mes
 - **[POS-Tagger-for-Hindi-Language](https://github.com/JayeshSuryavanshi/POS-Tagger-for-Hindi-Language)** — low-resource NLP: an n-gram back-off POS tagger for Hindi (~88% accuracy)
 - **[Lyft-Motion-Prediction](https://github.com/JayeshSuryavanshi/Lyft-Motion-Prediction-Submission)** — a two-level CNN → transformer motion-prediction pipeline for the Lyft Kaggle challenge
 - **[Walleto](https://github.com/JayeshSuryavanshi/Walleto)** — full-stack e-wallet (Angular + Spring Boot / MySQL) for a bit of SWE range
+- **[GeoSocialPy](https://github.com/JayeshSuryavanshi/GeoSocialPy)** — geospatial toolkit: fetch geotagged tweets by radius (X API v2), then extract, analyze, and map them
 
 ### 📊 GitHub at a glance
 
