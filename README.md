@@ -4,7 +4,7 @@
 
 ---
 
-I build applied ML and NLP systems from messy, real-world data — and small, well-made side projects off the clock.
+I build applied ML and NLP systems from messy, real-world data and small, well-made side projects off the clock.
 
 **Now** · retrieval systems, ML infra, and cleaner ways to ship models.
 
