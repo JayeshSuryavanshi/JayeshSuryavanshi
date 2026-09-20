@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jayesh 👋</h1>
+<h1 align="center">Hi, I'm Jayesh 👋🏻</h1>
 
 <p align="center">ML Engineer @ eBay · NLP &amp; applied ML at scale</p>
 
