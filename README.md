@@ -1,17 +1,24 @@
 <h1 align="center">Hi, I'm Jayesh 👋🏻</h1>
 
-<p align="center">ML Engineer @ eBay · NLP &amp; applied ML at scale</p>
+<p align="center">ML Engineer @ eBay · fraud and anomaly detection · applied ML at scale</p>
 
 ---
 
-I build applied ML and NLP systems from messy, real-world data and small, well-made side projects off the clock.
+I build applied ML systems from messy, real-world data, and I contribute to the open-source anomaly-detection stack in Python.
 
-**Now** · retrieval systems, ML infra, and cleaner ways to ship models.
+**Now** · anomaly detection, fraud ML, and cleaner ways to ship and evaluate models.
+
+### Open source
+
+- **[aeon](https://github.com/aeon-toolkit/aeon)** — authored the MADRID multi-length discord detector, shipped in v1.6.0 (listed maintainer); DAMP detector open
+- **[PyOD](https://github.com/yzhao062/pyod)** — save/load/clone round-trip test coverage across 23 detectors (merged); Deep SAD and Extended Isolation Forest detectors open
+- **[category_encoders](https://github.com/scikit-learn-contrib/category_encoders)** — fixed `GrayEncoder.inverse_transform` (merged) · **[scikit-dimension](https://github.com/scikit-learn-contrib/scikit-dimension)** — uncentered lPCA option (merged)
+- **[river](https://github.com/online-ml/river)** — Robust Random Cut Forest and a `PredictiveAnomalyDetection` fix (open) · **[scikit-learn](https://github.com/scikit-learn/scikit-learn)** — exact IsolationForest path length (open)
 
 ### Selected work
 
+- **[graphspot](https://github.com/JayeshSuryavanshi/graphspot)** — my own library: inductive graph anomaly detection with a torch-free core (tree and spectral detectors, Fraudar, OddBall, leakage-safe temporal evaluation), on PyPI
 - **[Social-Unrest-Prediction-NLP](https://github.com/JayeshSuryavanshi/Social-Unrest-Prediction-NLP)** — transformer pipeline forecasting social unrest from ACLED data (extraction → summarization → event prediction)
-- **[Sentiment-Analysis-IMDb-Reviews](https://github.com/JayeshSuryavanshi/Sentiment-Analysis-IMDb-Reviews)** — PyTorch RNN / bi-RNN / bi-LSTM sentiment classifiers, compared head to head
 - **[GeoSocialX](https://github.com/JayeshSuryavanshi/GeoSocialX)** — geospatial toolkit for geotagged social data (CSV · GeoJSON · Bluesky), with mapping built in
 
 <p align="center">
