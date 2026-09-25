@@ -24,5 +24,5 @@ I build applied ML systems from messy, real-world data, and I contribute to the 
 <p align="center">
   <a href="https://www.jayeshsuryavanshi.com">Website</a> ·
   <a href="https://www.linkedin.com/in/JayeshSuryavanshi/">LinkedIn</a> ·
-  <a href="mailto:jayeshscode@gmail.com">Email</a>
+  <a href="mailto:jayeshksuryavanshi@gmail.com">Email</a>
 </p>
