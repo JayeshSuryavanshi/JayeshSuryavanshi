@@ -4,7 +4,7 @@
 
 ---
 
-I build applied ML systems from messy, real-world data, and I contribute to the open-source anomaly-detection stack in Python.
+I build applied ML systems from messy, real-world data, and I contribute to the open-source anomaly-detection stack in Python and to Apple's MLX.
 
 **Now** · anomaly detection, fraud ML, and cleaner ways to ship and evaluate models.
 
@@ -12,6 +12,7 @@ I build applied ML systems from messy, real-world data, and I contribute to the 
 
 - **[aeon](https://github.com/aeon-toolkit/aeon)**: implemented the MADRID multi-length discord detector, shipped in v1.6.0 (listed maintainer); DAMP detector open
 - **[PyOD](https://github.com/yzhao062/pyod)**: save/load/clone round-trip test coverage across 23 detectors (merged); Deep SAD and Extended Isolation Forest detectors open
+- **[mlx-lm](https://github.com/ml-explore/mlx-lm)**: fixed a shared-memory race in the fused KL and JS divergence Metal kernels (merged); Qwen3.5 text-only model types open
 - **[category_encoders](https://github.com/scikit-learn-contrib/category_encoders)**: fixed `GrayEncoder.inverse_transform` (merged) · **[scikit-dimension](https://github.com/scikit-learn-contrib/scikit-dimension)**: uncentered lPCA option (merged)
 - **[scikit-learn](https://github.com/scikit-learn/scikit-learn)**: exact IsolationForest path length (open)
 
