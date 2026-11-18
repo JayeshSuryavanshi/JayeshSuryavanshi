@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Jayesh 👋🏻</h1>
 
-<p align="center">Senior ML Engineer @ eBay · fraud and anomaly detection · applied ML at scale</p>
+<p align="center">ML Engineer @ eBay · fraud and anomaly detection · applied ML at scale</p>
 
 ---
 
